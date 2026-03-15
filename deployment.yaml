@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: reactapp-ui
-        image: eric7767/reactapp-ui:a186cfeb7cc73fbce19c726bf1bd8f435f71419f
+        image: eric7767/reactapp-ui:bd0b341b0800ea620e5b6fcb93347351247fb3ef
         ports:
         - containerPort: 80
